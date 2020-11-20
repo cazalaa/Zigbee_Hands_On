@@ -45,8 +45,7 @@ void emberAfPluginNetworkCreatorCompleteCallback(const EmberNetworkParameters *n
                        "complete",
                        EMBER_SUCCESS);
 }
-
-``` 
+```
 
 We have implemented the network formation part upon reset, now we will program its opening to other devices for joining.
 -	Edit the networkOpeningEventHandler as follows :
