@@ -21,7 +21,11 @@ void networkOpeningEventHandler(void);
 void emberAfMainInitCallback(void) {
     emberEventControlSetActive(networkManagementEventControl);
 }
+```
+
 -	Edit the networkManagementEventHandler as follows:
+
+```
 void networkManagementEventHandler(void) {
      emberEventControlSetInactive(networkManagementEventControl);
      if (emberAfNetworkState() != EMBER_JOINED_NETWORK) {
