@@ -1,7 +1,7 @@
 - Open the file <your_project_name>_callbacks.c. You will find there all the callbacks we set earlier
 
 - 	Add the following lines at the top of the file:
-```
+{% raw %}
 #include EMBER_AF_API_NETWORK_CREATOR
 #include EMBER_AF_API_NETWORK_CREATOR_SECURITY
 #include EMBER_AF_API_FIND_AND_BIND_TARGET
@@ -12,7 +12,7 @@ EmberEventControl networkOpeningEventControl;
 
 void networkManagementEventHandler(void);
 void networkOpeningEventHandler(void);
-```
+{% endraw %}
 
 -	Edit the emberAfMainInitCallback implementation so that it ends like this:
 ```
