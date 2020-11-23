@@ -4,7 +4,7 @@
 
 - 	Add the following lines at the top of the file:
 
-```
+```C
 #include EMBER_AF_API_NETWORK_CREATOR
 #include EMBER_AF_API_NETWORK_CREATOR_SECURITY
 #include EMBER_AF_API_FIND_AND_BIND_TARGET
