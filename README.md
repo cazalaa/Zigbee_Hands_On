@@ -3,7 +3,6 @@
      alt="Silabs Logo"
      style="float: left"
      width="100" />
-![](images/silabs_logo.png)
 
 # Welcome to our Zigbee Hands On 
 
