@@ -2,8 +2,8 @@
 -	Create a new Zigbee 3.0 project
 -	Select ZigbeeMinimal Sample Application
 
-<img src="https://github.com/Jerome-Silabs/Zigbee_Hands_On/images/ho1_0.png" height="300">
-![](images/ho1_0.png) 
+
+![](../images/ho1_0.png) 
 
 -	In the ISC configuration, in the “ZCL dusters” tab, change “ZCL device type” field of the endpoint 1 device to “HA Window Covering” 
  ![](images/ho1_1.png) 
