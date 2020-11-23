@@ -1,3 +1,5 @@
+# Modify the callbacks to add your application code
+
 - Open the file <your_project_name>_callbacks.c. You will find there all the callbacks we set earlier
 
 - 	Add the following lines at the top of the file:
