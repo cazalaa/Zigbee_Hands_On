@@ -1,7 +1,7 @@
 
 <img src="images/silabs_logo.png"
      alt="Silabs Logo"
-     style="float: left; margin-right: 50px;" />
+     style="float: left; size: 50px;" />
 ![](images/silabs_logo.png)
 
 # Welcome to our Zigbee Hands On 
