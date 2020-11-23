@@ -1,7 +1,6 @@
 
 <img src="images/silabs_logo.png"
      alt="Silabs Logo"
-     style="float: left"
      width="200" />
 
 # Welcome to our Zigbee Hands On 
